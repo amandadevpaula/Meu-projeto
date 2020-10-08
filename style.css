@@ -1,12 +1,33 @@
 h1 {
+    
     color: blueviolet;
+   margin: 20px;
 } 
 
-
+body {
+    
+    border-radius: 5px;
+    border:10px groove #5c1166;
+    
+}
 a {
+    
     color: darkmagenta ;
+    margin: 10px;
 }
 h3 {
     color: rgb(8, 2, 19);
     font-style: inherit;
+    margin: 10px;
+}
+.foto {
+    height:"180px";
+    width: "120px"; 
+    border-radius: "80px";
+    border: 3px solid #5c1166;
+    margin:10px
+    
+}
+#hr {
+    lighting-color: darkmagenta;  line-height: "5px"
 }
